@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore environment variables file
+.env
