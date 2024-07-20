@@ -273,41 +273,6 @@ def evaluate_all_algorithms(arrival_time, burst_time, time_quantum, priorities):
     # Get all averages and display them
     get_all_averages(all_results)
 
-# def get_all_averages(results_dict):
-#     print("\n")
-#     averages_list = []
-#
-#     # Iterate through each algorithm result and calculate the averages
-#     for algo_name, solved_info in results_dict.items():
-#         df = pd.DataFrame(solved_info)
-#         avg_tt = df['tat'].mean()  # Average Turnaround Time
-#         avg_wt = df['wat'].mean()  # Average Waiting Time
-#         averages_list.append((algo_name, avg_tt, avg_wt))
-#
-#     # Sort the list of averages by Average Turnaround Time, then by Average Waiting Time
-#     averages_list.sort(key=lambda x: (x[1], x[2]))
-#
-#     # Create a Rich Table
-#
-#     table = Table(title="⧗ Algorithm Fastest to Slowest ⧗", title_style="bold italic bright_cyan",
-#                   header_style="bold bright_green", style="cyan", box=box.ASCII_DOUBLE_HEAD, show_lines=True)
-#
-#     table.add_column("Algorithm", style="dim")
-#     table.add_column("Average TT", justify="right")
-#     table.add_column("Average WT", justify="right")
-#
-#     # Add the rows to the table
-#     for algo_name, avg_tt, avg_wt in averages_list:
-#         # Create Text objects with styles
-#         algo_text = Text(algo_name, style="bold bright_yellow")
-#         avg_tt_text = Text(f"{avg_tt:.2f}", style="bold yellow")
-#         avg_wt_text = Text(f"{avg_wt:.2f}", style="bold yellow")
-#
-#         # Add the row with styled Text objects
-#         table.add_row(algo_text, avg_tt_text, avg_wt_text)
-#
-#     # Print the table
-#     console.print(table)
 def get_all_averages(results_dict):
     print("\n")
     averages_list = []

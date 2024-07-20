@@ -1,11 +1,12 @@
 ### 
-    
-
-
+  
+<div align="center">
+<img src="/home/xr739j9m/Documents/pythonProject1/cpu-time-express.png" alt="Description of the image">
+</div>
 
 
 ----
-##### CPU Time Express is a comprehensive tool designed to solve CPU scheduling problems using various scheduling algorithms. This project provides an interactive and user-friendly platform to simulate and analyze different scheduling strategies, helping students, educators, and professionals understand the intricacies of CPU scheduling.
+##### CPU Time Express is a comprehensive tool designed to solve CPU scheduling problems using various scheduling algorithms. This project provides an interactive and user-friendly platform to simulate and analyze different scheduling strategies, helping students to understand the intricacies of CPU scheduling.
 
 ----
 
