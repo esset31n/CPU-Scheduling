@@ -67,7 +67,4 @@ python3 main.py
 
 ## Demo
 
-
-{% include youtube.html id="F1Itn_lTBG0" %}
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1Itn_lTBG0" frameborder="0" allowfullscreen></iframe>
