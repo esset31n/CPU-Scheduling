@@ -12,7 +12,7 @@
 
 
 
-CPU Time Express is a comprehensive program designed to be an interactive and user-friendly tool to simulate and analyze different scheduling algorithms. It provides pleasing displays tailored for terminal use. 
+CPU Time Express is a comprehensive program designed to be an interactive and user-friendly tool to simulate and analyze different scheduling algorithms. It provides streamlined process and pleasing displays tailored for terminal use. 
 
 
 
@@ -54,18 +54,24 @@ CPU Time Express is a comprehensive program designed to be an interactive and us
 </details>
 <details>
   <summary>Option to Evaluate all Algorithms for comparison</summary>
-  <p>Provides a comprehensive comparison of all supported scheduling algorithms based on the given inputs. This allows users to understand the strengths and weaknesses of each algorithm in various scenarios.</p>
+  <ul style="margin-top: 10px;">
+    <li>Provides a comprehensive comparison of all supported scheduling algorithms based on the given inputs.</li>
+    <li>Allows users to understand the strengths and weaknesses of each algorithm in various scenarios.</li>
+  </ul>
 </details>
 
 <details>
   <summary>Gantt Charts</summary>
-  <p>Visual representation of the process scheduling over time. </p>
+  <ul style="margin-top: 10px;">
+    <li>Visual representation of the process scheduling over time.</li>
+  </ul>
 </details>
+
 
 
 ## Getting Started
 
-To set up the project follow these instructions:
+To set up the project follow these steps:
 
 1. Clone the project :
 ````
