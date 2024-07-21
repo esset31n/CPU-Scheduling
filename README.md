@@ -4,21 +4,21 @@
 <img src="https://github.com/esset31n/CPU-Scheduling/blob/main/cpu-time-express.png" alt="Description of the image">
 </div>
 
-----
+
 ## About The Project
 
-----
+
 
 
 CPU Time Express is a comprehensive program designed to be an interactive and user-friendly tool to simulate and analyze different scheduling algorithms. It provides comprehensive displays suited for terminal activities. 
 
-----
+
 
 
 
 ## Features
 
-___
+
 
 1. Supported Algorithms:
    - First Come First Serve (FCFS)
@@ -41,9 +41,9 @@ ___
 3. Option to Evaluate all Algorithms for comparison
 4. Gantt Charts
 
----
+
 ## Getting Started
-___
+
 To set up the project follow these instructions:
 
 1. Clone the project :
@@ -64,9 +64,11 @@ python3 main.py
 ````
 
 
----
+
 ## Demo
-___
+
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=F1Itn_lTBG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <a href="https://www.youtube.com/watch?v=F1Itn_lTBG0">
+        <img src="https://img.youtube.com/vi/F1Itn_lTBG0/0.jpg" alt="IMAGE ALT TEXT HERE">
+    </a>
 </div>
