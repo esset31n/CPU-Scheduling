@@ -1,36 +1,97 @@
 ### 
   
 <div align="center">
-<img src="/home/xr739j9m/Documents/pythonProject1/cpu-time-express.png" alt="Description of the image">
+<img src="https://github.com/esset31n/CPU-Scheduling/blob/main/images/cpu-time-express.png" alt="Description of the image">
+ 
 </div>
 
 
-----
-##### CPU Time Express is a comprehensive tool designed to solve CPU scheduling problems using various scheduling algorithms. This project provides an interactive and user-friendly platform to simulate and analyze different scheduling strategies, helping students to understand the intricacies of CPU scheduling.
 
-----
+## About The Project
 
 
-# Features
 
-1. Supported Algorithms:
-   - First Come First Serve (FCFS)
-   - Shortest Job First (SJF)
-   - Shortest Remaining Time First (SRTF)
-   - Round Robin (RR)
-   - Non-Preemptive Priority (NPP)
-   - Preemptive Priority (PP)
-2. Tabulated Display for: 
-   - Process 
-   - Arrival Time 
-   - Burst Time
-   - Final Time 
-   - Time Quantum for Round Robin
-   - Priorities for NPP and PP
-   - Turn Around Time 
-   - Waiting Time
-   - Average Turn Around Time 
-   - Average Waiting Time
-3. Option to Evaluate all Algorithms for comparison
-4. Gantt Charts 
-5. Colors
+
+CPU Time Express is a comprehensive program designed to be an interactive and user-friendly tool to simulate and analyze different scheduling algorithms. It provides streamlined process and pleasing displays tailored for terminal use. 
+
+
+
+
+## Features
+
+
+
+
+
+<details>
+  <summary>Supported Algorithms</summary>
+  <ul>
+    <li>First Come First Serve (FCFS)</li>
+    <li>Shortest Job First (SJF)</li>
+    <li>Shortest Remaining Time First (SRTF)</li>
+    <li>Round Robin (RR)</li>
+    <li>Non-Preemptive Priority (NPP)</li>
+    <li>Preemptive Priority (PP)</li>
+  </ul>
+</details>
+
+
+
+<details>
+  <summary>Tabulated Display</summary>
+  <ul>
+    <li>Process</li>
+    <li>Arrival Time</li>
+    <li>Burst Time</li>
+    <li>Final Time</li>
+    <li>Time Quantum for Round Robin</li>
+    <li>Priorities for NPP and PP</li>
+    <li>Turn Around Time</li>
+    <li>Waiting Time</li>
+    <li>Average Turn Around Time</li>
+    <li>Average Waiting Time</li>
+  </ul>
+</details>
+<details>
+  <summary>Option to Evaluate all Algorithms for comparison</summary>
+  <ul style="margin-top: 10px;">
+    <li>Provides a comprehensive comparison of all supported scheduling algorithms based on the given inputs.</li>
+    <li>Allows users to understand the strengths and weaknesses of each algorithm in various scenarios.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Gantt Charts</summary>
+  <ul style="margin-top: 10px;">
+    <li>Visual representation of the process scheduling over time.</li>
+  </ul>
+</details>
+
+
+
+## Getting Started
+
+To set up the project follow these steps:
+
+1. Clone the project :
+````
+git clone https://github.com/esset31n/CPU-Scheduling
+````
+2. Change the directory to CPU-Scheduling:
+````
+cd CPU-Scheduling
+````
+3. Install needed requirements:
+````
+pip install -r requirements.txt
+````
+4. Once installation is done run the main.py file:
+````
+python3 main.py
+````
+
+
+
+## Demo
+
+[![Watch the video](images/output.gif)](https://youtu.be/n4bQTkqnroo)
