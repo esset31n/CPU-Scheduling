@@ -66,12 +66,4 @@ python3 main.py
 
 ## Demo
 
-[![Video Title](https://img.youtube.com/vi/n4bQTkqnroo/0.jpg)](https://www.youtube.com/watch?v=n4bQTkqnroo)
-
-# Test
-
-
-
-<div align="center">
-    <iframe width="1187" height="640" src="https://www.youtube.com/embed/n4bQTkqnroo" title="CPU Time Express" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+[![Watch the video](images/output.gif)](https://youtu.be/F1Itn_lTBG0)
