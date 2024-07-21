@@ -1,7 +1,7 @@
 ### 
   
 <div align="center">
-<img src="https://github.com/esset31n/CPU-Scheduling/blob/main/cpu-time-express.png" alt="Description of the image">
+<img src="https://github.com/esset31n/CPU-Scheduling/blob/main/images/cpu-time-express.png" alt="Description of the image">
 </div>
 
 
@@ -66,4 +66,4 @@ python3 main.py
 
 ## Demo
 
-[![Watch the video](images/output.gif)](https://youtu.be/F1Itn_lTBG0)
+[![Watch the video](images/output.gif)](https://youtu.be/n4bQTkqnroo)
