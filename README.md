@@ -10,8 +10,7 @@
 
 
 
-CPU Time Express is a comprehensive program designed to be an interactive and user-friendly tool to simulate and analyze different scheduling algorithms. It provides comprehensive displays suited for terminal activities. 
-
+CPU Time Express is a comprehensive program designed to be an interactive and user-friendly tool to simulate and analyze different scheduling algorithms. It provides pleasing displays tailored for terminal use. 
 
 
 
@@ -67,4 +66,12 @@ python3 main.py
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F1Itn_lTBG0" frameborder="0" allowfullscreen></iframe>
+[![Video Title](https://img.youtube.com/vi/n4bQTkqnroo/0.jpg)](https://www.youtube.com/watch?v=n4bQTkqnroo)
+
+# Test
+
+
+
+<div align="center">
+    <iframe width="1187" height="640" src="https://www.youtube.com/embed/n4bQTkqnroo" title="CPU Time Express" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
