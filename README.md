@@ -1,7 +1,7 @@
 ### 
   
 <div align="center">
-<img src="/pythonProject1/cpu-time-express.png" alt="Description of the image">
+<img src="https://github.com/esset31n/CPU-Scheduling/blob/main/cpu-time-express.png" alt="Description of the image">
 </div>
 
 
