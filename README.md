@@ -67,8 +67,7 @@ python3 main.py
 
 ## Demo
 
-<div align="center">
-    <a href="https://www.youtube.com/watch?v=F1Itn_lTBG0">
-        <img src="https://img.youtube.com/vi/F1Itn_lTBG0/0.jpg" alt="IMAGE ALT TEXT HERE">
-    </a>
-</div>
+
+{% include youtube.html id="F1Itn_lTBG0" %}
+
+
