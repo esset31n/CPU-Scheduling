@@ -2,10 +2,7 @@
   
 <div align="center">
 <img src="https://github.com/esset31n/CPU-Scheduling/blob/main/images/cpu-time-express.png" alt="Description of the image">
-<br>
-
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Second image description" width="40" height="40" style="margin-right: 5px;">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Icon description" width="50" height="50">
+ 
 </div>
 
 
@@ -62,7 +59,7 @@ CPU Time Express is a comprehensive program designed to be an interactive and us
 
 <details>
   <summary>Gantt Charts</summary>
-  <p>Visual representation of the process scheduling over time. Gantt charts help in understanding the execution order and overlap of processes, which is crucial for analyzing the efficiency of different scheduling algorithms.</p>
+  <p>Visual representation of the process scheduling over time. </p>
 </details>
 
 
