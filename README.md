@@ -1,7 +1,7 @@
 ### 
   
 <div align="center">
-<img src="/home/xr739j9m/Documents/pythonProject1/cpu-time-express.png" alt="Description of the image">
+<img src="/pythonProject1/cpu-time-express.png" alt="Description of the image">
 </div>
 
 
